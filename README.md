@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Open Source Contribution**
 
-- 👯 I’m looking to collaborate on **MERN stack projects**
+- 👯 I’m looking  to collaborate on **MERN stack projects**
 
 - 👨‍💻 All of my projects are  available at [https://sisir-portfolio.netlify.app/](https://sisir-portfolio.netlify.app/)
 
