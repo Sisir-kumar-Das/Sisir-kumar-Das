@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **MERN stack projects**
 
-- 👨‍💻 All of my projects are available at [https://sisir-portfolio.netlify.app/](https://sisir-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are  available at [https://sisir-portfolio.netlify.app/](https://sisir-portfolio.netlify.app/)
 
 - 💬 Ask me about **react, express, node, mongoDB**
 
