@@ -32,7 +32,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sisir-kumar-das&show_icons=true&locale=en" alt="sisir-kumar-das" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sisir-kumar-das&" alt="sisir-kumar-das" /></p>
 
 ### 🔥 GitHub Streak
 <p align="center">
