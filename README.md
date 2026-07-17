@@ -34,5 +34,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sisir-kumar-das&" alt="sisir-kumar-das" /></p>
 
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sisir-kumar-das&theme=radical&hide_border=true" alt="sisir-kumar-das" />
+</p>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sisir-kumar-Das&limit=5&theme=flat&combine_all_yearly_contributions=true)
